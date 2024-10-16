@@ -59,7 +59,7 @@ To run the project locally:
 
 ## Demo
 
-Watch a demo of the platform [here]([https://drive.google.com/file/d/1APR4f2L3jOqr8wXgwP74jlxLPUVSNSSO/view?usp=sharing](https://drive.google.com/file/d/1DPjMdNO-ddxtxqQKfx6Lyx_0rTJgopVE/view?usp=sharing)).
+Watch a demo of the platform [here](https://drive.google.com/file/d/1APR4f2L3jOqr8wXgwP74jlxLPUVSNSSO/view?usp=sharing](https://drive.google.com/file/d/1DPjMdNO-ddxtxqQKfx6Lyx_0rTJgopVE/view?usp=sharing).
 
 ## Files Description
 
