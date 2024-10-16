@@ -59,7 +59,7 @@ To run the project locally:
 
 ## Demo
 
-Watch a demo of the platform [here](./Demo_Vedio.mp4).
+Watch a demo of the platform [here](https://drive.google.com/file/d/1APR4f2L3jOqr8wXgwP74jlxLPUVSNSSO/view?usp=sharing).
 
 ## Files Description
 
@@ -69,7 +69,7 @@ Watch a demo of the platform [here](./Demo_Vedio.mp4).
 - **chatbot.py**: Code implementing the RAG-based chatbot for patient support.
 - **classifier.py**: The classification logic based on the ResNet50 model.
 - **main.py**: Core script for model initialization and system setup.
-- **Demo_Vedio.mp4**: A demonstration video of the platform.
+- **Demo_Video.mp4**: A demonstration video of the platform.
 
 ## Technologies Used
 
